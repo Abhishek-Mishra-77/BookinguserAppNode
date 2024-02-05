@@ -1,0 +1,19 @@
+body {
+  background-color: hsl(89, 43%, 51%);
+}
+.main-section {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-section {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 22rem;
+  width: 50%;
+  margin-bottom: 5rem;
+}
